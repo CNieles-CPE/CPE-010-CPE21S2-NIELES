@@ -3,7 +3,9 @@
 #Course Information
 
 Course Name: Data Structure and Algorithm (CPE21S2)
+
 Academic Year: 2026-2927
+
 Student Name: Nieles, Cenndy M.
 
 # Objective 
