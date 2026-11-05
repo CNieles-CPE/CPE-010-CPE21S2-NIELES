@@ -1,0 +1,49 @@
+#include<iostream>
+using namespace std;
+
+int main() {
+	
+int item_1, item_2, item_3;
+int total, payment, change;
+
+cout << " Enter price of item_1: ";
+cin >> item_1;
+
+cout << "Enter price for item_2: ";
+cin >> item_2;
+
+cout << "Enter price for item_3: ";
+cin >> item_3;
+
+cout <<"Enter the cash given by customer: ";
+cin >> cash;
+
+toal = item1, + item2, + item3;
+cout << "Total price of item is : ";
+cin >> price;
+
+cout << "Total Price: " << total << endl;
+
+cout << "Enter payment: ";
+cin >> payment;
+
+cout << "Change given to customer: ";
+cin>> change;
+
+	
+change = payment - total;
+
+ cout << /n----- Transaction-----" << endl;	
+ 
+ cout << "Item 1: " << item1 << endl;
+ cout << "Item 2: " << item2 << endl;
+ cout << "Item 3: " << item3 << endl;
+	
+ cout << "Enter the cash given by customer: " << enter the cash given by customer << endl;	
+ cout << "Total price: " << total price << endl;
+ cout << " Pyament: " << payment << endl;
+ cout << "Change: " << change << endl;
+	
+	return 0;
+	
+}
