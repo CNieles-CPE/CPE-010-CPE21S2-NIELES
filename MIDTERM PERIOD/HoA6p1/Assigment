@@ -1,0 +1,7 @@
+
+ What is a Search Tree?
+
+A search tree is a specialized tree data structure designed to store and retrieve keys efficiently from a dataset.
+In a search tree, every node contains a key and directed links to its child nodes. 
+The elements are organized in a strict hierarchical order so that searching, insertion, and deletion can be performed by tracing a 
+single path from the root node down to a specific target node, avoiding the need to inspect every item in the structure.
